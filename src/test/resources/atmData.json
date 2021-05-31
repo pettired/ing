@@ -1,0 +1,35 @@
+[
+  {
+    "address": {
+      "street": "Hesseplaats",
+      "housenumber": "13",
+      "postalcode": "3069 EA",
+      "city": "Rotterdam",
+      "geoLocation": {
+        "lat": "51.962635",
+        "lng": "4.553937"
+      }
+    },
+    "distance": 0,
+    "openingHours": [
+      {
+        "dayOfWeek": 2,
+        "hours": [
+          {
+            "hourFrom": "08:00",
+            "hourTo": "20:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 3,
+        "hours": [
+          {
+            "hourFrom": "08:00",
+            "hourTo": "20:00"
+          }
+        ]
+      }
+    ]
+  }
+]

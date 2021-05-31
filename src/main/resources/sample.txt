@@ -1,0 +1,157 @@
+[
+  {
+    "address": {
+      "street": "Prozastraat",
+      "housenumber": "111",
+      "postalcode": "1321 GZ",
+      "city": "Almere",
+      "geoLocation": {
+        "lat": "52.35768",
+        "lng": "5.183031"
+      }
+    },
+    "distance": 0,
+    "openingHours": [
+      {
+        "dayOfWeek": 2,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 3,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 4,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 5,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 6,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 7,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 1,
+        "hours": [
+          {
+            "hourFrom": "07:00",
+            "hourTo": "23:00"
+          }
+        ]
+      }
+    ],
+    "functionality": "Geldautomaat",
+    "type": "GELDMAAT"
+  },
+  {
+    "address": {
+      "street": "Voorstraat",
+      "housenumber": "141",
+      "postalcode": "1931 AK",
+      "city": "Egmond aan Zee",
+      "geoLocation": {
+        "lat": "52.617534",
+        "lng": "4.621751"
+      }
+    },
+    "distance": 0,
+    "openingHours": [
+      {
+        "dayOfWeek": 2,
+        "hours": [
+          {
+            "hourFrom": "08:30",
+            "hourTo": "17:30"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 3,
+        "hours": [
+          {
+            "hourFrom": "08:30",
+            "hourTo": "17:30"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 4,
+        "hours": [
+          {
+            "hourFrom": "08:30",
+            "hourTo": "17:30"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 5,
+        "hours": [
+          {
+            "hourFrom": "08:30",
+            "hourTo": "17:30"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 6,
+        "hours": [
+          {
+            "hourFrom": "08:30",
+            "hourTo": "17:30"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 7,
+        "hours": [
+          {
+            "hourFrom": "09:30",
+            "hourTo": "17:00"
+          }
+        ]
+      },
+      {
+        "dayOfWeek": 1,
+        "hours": []
+      }
+    ],
+    "functionality": "Geld storten en opnemen",
+    "type": "GELDMAAT"
+  }
+]
